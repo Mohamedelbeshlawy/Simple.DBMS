@@ -53,6 +53,6 @@ Just run this command on your terminal:
 	./mydbms.sh
 
 # Authors
-
- [Mohamed Elbeshlawy](https://github.com/Mohamedelbeshlawy)
- [Shehab El-Deen Alalkamy](https://github.com/ShehabEl-DeenAlalkamy)
+ 
+   • [Mohamed Elbeshlawy](https://github.com/Mohamedelbeshlawy)
+   • [Shehab El-Deen Alalkamy](https://github.com/ShehabEl-DeenAlalkamy)
