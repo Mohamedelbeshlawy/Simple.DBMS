@@ -2,7 +2,6 @@
 
 A simple DBMS that performs some basic operations on data.
 
-
 # Prerequisites
 
 Must be run on operating system of Linux distributions ex. Red Hat, Ubuntu, Etc.
