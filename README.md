@@ -54,6 +54,6 @@ Just run this command on your terminal:
 
 # Authors
  
-   [Mohamed Elbeshlawy](https://github.com/Mohamedelbeshlawy)
+   [Mohamed El-Beshlawy](https://github.com/Mohamedelbeshlawy)
    
    [Shehab El-Deen Alalkamy](https://github.com/ShehabEl-DeenAlalkamy)
